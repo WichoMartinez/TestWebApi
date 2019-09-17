@@ -1,0 +1,14 @@
+C:\Users\Kristoff\source\repos\Stores\Stores\bin\Debug\netcoreapp2.2\StoresApi.deps.json
+C:\Users\Kristoff\source\repos\Stores\Stores\bin\Debug\netcoreapp2.2\StoresApi.runtimeconfig.json
+C:\Users\Kristoff\source\repos\Stores\Stores\bin\Debug\netcoreapp2.2\StoresApi.runtimeconfig.dev.json
+C:\Users\Kristoff\source\repos\Stores\Stores\bin\Debug\netcoreapp2.2\StoresApi.dll
+C:\Users\Kristoff\source\repos\Stores\Stores\bin\Debug\netcoreapp2.2\StoresApi.pdb
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.csproj.CoreCompileInputs.cache
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.AssemblyInfoInputs.cache
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.AssemblyInfo.cs
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.dll
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.pdb
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.csprojAssemblyReference.cache
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.RazorAssemblyInfo.cache
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.RazorAssemblyInfo.cs
+C:\Users\Kristoff\source\repos\Stores\Stores\obj\Debug\netcoreapp2.2\StoresApi.RazorTargetAssemblyInfo.cache
